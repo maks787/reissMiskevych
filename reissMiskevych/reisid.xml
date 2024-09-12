@@ -1,0 +1,332 @@
+﻿<reisid>
+	<reis lennujaam="Athens Ben Epps Airport">
+		<lennujaam>Athens Ben Epps Airport</lennujaam>
+		<reisiinfo>
+			<transport>Volkswagen</transport>
+			<lopp_koht>Japan</lopp_koht>
+			<algus_koht>China</algus_koht>
+		</reisiinfo>
+		<hinnad>$2.33</hinnad>
+		<kontinent>NA</kontinent>
+		<piletikood>AHN</piletikood>
+	</reis>
+	<reis lennujaam="Niigata Airport">
+		<lennujaam>Niigata Airport</lennujaam>
+		<reisiinfo>
+			<transport>Mercedes-Benz</transport>
+			<lopp_koht>Portugal</lopp_koht>
+			<algus_koht>Vietnam</algus_koht>
+		</reisiinfo>
+		<hinnad>$1.80</hinnad>
+		<kontinent>AS</kontinent>
+		<piletikood>KIJ</piletikood>
+	</reis>
+	<reis lennujaam="Bamarni Airport">
+		<lennujaam>Bamarni Airport</lennujaam>
+		<reisiinfo>
+			<transport>Buick</transport>
+			<lopp_koht>Nigeria</lopp_koht>
+			<algus_koht>Indonesia</algus_koht>
+		</reisiinfo>
+		<hinnad>$9.82</hinnad>
+		<kontinent>AS</kontinent>
+		<piletikood>BMN</piletikood>
+	</reis>
+	<reis lennujaam="Thargomindah Airport">
+		<lennujaam>Thargomindah Airport</lennujaam>
+		<reisiinfo>
+			<transport>Land Rover</transport>
+			<lopp_koht>Russia</lopp_koht>
+			<algus_koht>France</algus_koht>
+		</reisiinfo>
+		<hinnad>$6.14</hinnad>
+		<kontinent>OC</kontinent>
+		<piletikood>XTG</piletikood>
+	</reis>
+	<reis lennujaam="Robin Hood Doncaster Sheffield Airport">
+		<lennujaam>Robin Hood Doncaster Sheffield Airport</lennujaam>
+		<reisiinfo>
+			<transport>Lamborghini</transport>
+			<lopp_koht>Mongolia</lopp_koht>
+			<algus_koht>Armenia</algus_koht>
+		</reisiinfo>
+		<hinnad>$5.67</hinnad>
+		<kontinent>EU</kontinent>
+		<piletikood>DSA</piletikood>
+	</reis>
+	<reis lennujaam="Miho Yonago Airport">
+		<lennujaam>Miho Yonago Airport</lennujaam>
+		<reisiinfo>
+			<transport>Land Rover</transport>
+			<lopp_koht>Russia</lopp_koht>
+			<algus_koht>Czech Republic</algus_koht>
+		</reisiinfo>
+		<hinnad>$9.56</hinnad>
+		<kontinent>AS</kontinent>
+		<piletikood>YGJ</piletikood>
+	</reis>
+	<reis lennujaam="University Park Airport">
+		<lennujaam>University Park Airport</lennujaam>
+		<reisiinfo>
+			<transport>Mercury</transport>
+			<lopp_koht>China</lopp_koht>
+			<algus_koht>Argentina</algus_koht>
+		</reisiinfo>
+		<hinnad>$5.72</hinnad>
+		<kontinent>NA</kontinent>
+		<piletikood>SCE</piletikood>
+	</reis>
+	<reis lennujaam="Casement Airport">
+		<lennujaam>Casement Airport</lennujaam>
+		<reisiinfo>
+			<transport>Aston Martin</transport>
+			<lopp_koht>China</lopp_koht>
+			<algus_koht>Croatia</algus_koht>
+		</reisiinfo>
+		<hinnad>$1.59</hinnad>
+		<kontinent>NA</kontinent>
+		<piletikood>PVZ</piletikood>
+	</reis>
+	<reis lennujaam="Dunedin Airport">
+		<lennujaam>Dunedin Airport</lennujaam>
+		<reisiinfo>
+			<transport>Ford</transport>
+			<lopp_koht>Djibouti</lopp_koht>
+			<algus_koht>Philippines</algus_koht>
+		</reisiinfo>
+		<hinnad>$9.15</hinnad>
+		<kontinent>OC</kontinent>
+		<piletikood>DUD</piletikood>
+	</reis>
+	<reis lennujaam="Fincha Airport">
+		<lennujaam>Fincha Airport</lennujaam>
+		<reisiinfo>
+			<transport>Lincoln</transport>
+			<lopp_koht>Philippines</lopp_koht>
+			<algus_koht>Czech Republic</algus_koht>
+		</reisiinfo>
+		<hinnad>$5.75</hinnad>
+		<kontinent>AF</kontinent>
+		<piletikood>FNH</piletikood>
+	</reis>
+	<reis lennujaam="Thorne Bay Seaplane Base">
+		<lennujaam>Thorne Bay Seaplane Base</lennujaam>
+		<reisiinfo>
+			<transport>Land Rover</transport>
+			<lopp_koht>Canada</lopp_koht>
+			<algus_koht>Venezuela</algus_koht>
+		</reisiinfo>
+		<hinnad>$2.46</hinnad>
+		<kontinent>NA</kontinent>
+		<piletikood>KTB</piletikood>
+	</reis>
+	<reis lennujaam="Rio Galeão – Tom Jobim International Airport">
+		<lennujaam>Rio Galeão – Tom Jobim International Airport</lennujaam>
+		<reisiinfo>
+			<transport>Chrysler</transport>
+			<lopp_koht>Russia</lopp_koht>
+			<algus_koht>Philippines</algus_koht>
+		</reisiinfo>
+		<hinnad>$9.87</hinnad>
+		<kontinent>SA</kontinent>
+		<piletikood>GIG</piletikood>
+	</reis>
+	<reis lennujaam="Kangaatsiaq Heliport">
+		<lennujaam>Kangaatsiaq Heliport</lennujaam>
+		<reisiinfo>
+			<transport>Lotus</transport>
+			<lopp_koht>Mexico</lopp_koht>
+			<algus_koht>Yemen</algus_koht>
+		</reisiinfo>
+		<hinnad>$2.91</hinnad>
+		<kontinent>NA</kontinent>
+		<piletikood>QPW</piletikood>
+	</reis>
+	<reis lennujaam="Wake Island Airfield">
+		<lennujaam>Wake Island Airfield</lennujaam>
+		<reisiinfo>
+			<transport>Chevrolet</transport>
+			<lopp_koht>Denmark</lopp_koht>
+			<algus_koht>Indonesia</algus_koht>
+		</reisiinfo>
+		<hinnad>$8.80</hinnad>
+		<kontinent>OC</kontinent>
+		<piletikood>AWK</piletikood>
+	</reis>
+	<reis lennujaam="Tasiujaq Airport">
+		<lennujaam>Tasiujaq Airport</lennujaam>
+		<reisiinfo>
+			<transport>Honda</transport>
+			<lopp_koht>Slovenia</lopp_koht>
+			<algus_koht>Syria</algus_koht>
+		</reisiinfo>
+		<hinnad>$7.41</hinnad>
+		<kontinent>NA</kontinent>
+		<piletikood>YTQ</piletikood>
+	</reis>
+	<reis lennujaam="Maloelap Island Airport">
+		<lennujaam>Maloelap Island Airport</lennujaam>
+		<reisiinfo>
+			<transport>Ford</transport>
+			<lopp_koht>Germany</lopp_koht>
+			<algus_koht>China</algus_koht>
+		</reisiinfo>
+		<hinnad>$9.11</hinnad>
+		<kontinent>OC</kontinent>
+		<piletikood>MAV</piletikood>
+	</reis>
+	<reis lennujaam="Nizhnevartovsk Airport">
+		<lennujaam>Nizhnevartovsk Airport</lennujaam>
+		<reisiinfo>
+			<transport>Ford</transport>
+			<lopp_koht>Spain</lopp_koht>
+			<algus_koht>Indonesia</algus_koht>
+		</reisiinfo>
+		<hinnad>$5.40</hinnad>
+		<kontinent>AS</kontinent>
+		<piletikood>NJC</piletikood>
+	</reis>
+	<reis lennujaam="Vorkuta Airport">
+		<lennujaam>Vorkuta Airport</lennujaam>
+		<reisiinfo>
+			<transport>Ford</transport>
+			<lopp_koht>Peru</lopp_koht>
+			<algus_koht>Russia</algus_koht>
+		</reisiinfo>
+		<hinnad>$2.45</hinnad>
+		<kontinent>AS</kontinent>
+		<piletikood>VKT</piletikood>
+	</reis>
+	<reis lennujaam="Pumani Airport">
+		<lennujaam>Pumani Airport</lennujaam>
+		<reisiinfo>
+			<transport>Cadillac</transport>
+			<lopp_koht>China</lopp_koht>
+			<algus_koht>China</algus_koht>
+		</reisiinfo>
+		<hinnad>$6.26</hinnad>
+		<kontinent>OC</kontinent>
+		<piletikood>PMN</piletikood>
+	</reis>
+	<reis lennujaam="Okoyo Airport">
+		<lennujaam>Okoyo Airport</lennujaam>
+		<reisiinfo>
+			<transport>Saab</transport>
+			<lopp_koht>Japan</lopp_koht>
+			<algus_koht>Peru</algus_koht>
+		</reisiinfo>
+		<hinnad>$8.42</hinnad>
+		<kontinent>AF</kontinent>
+		<piletikood>OKG</piletikood>
+	</reis>
+	<reis lennujaam="Bonaventure Airport">
+		<lennujaam>Bonaventure Airport</lennujaam>
+		<reisiinfo>
+			<transport>Plymouth</transport>
+			<lopp_koht>Russia</lopp_koht>
+			<algus_koht>United States</algus_koht>
+		</reisiinfo>
+		<hinnad>$1.90</hinnad>
+		<kontinent>NA</kontinent>
+		<piletikood>YVB</piletikood>
+	</reis>
+	<reis lennujaam="Sfax Thyna International Airport">
+		<lennujaam>Sfax Thyna International Airport</lennujaam>
+		<reisiinfo>
+			<transport>Dodge</transport>
+			<lopp_koht>Poland</lopp_koht>
+			<algus_koht>China</algus_koht>
+		</reisiinfo>
+		<hinnad>$7.52</hinnad>
+		<kontinent>AF</kontinent>
+		<piletikood>SFA</piletikood>
+	</reis>
+	<reis lennujaam="Libertador Gral D Jose De San Martin Airport">
+		<lennujaam>Libertador Gral D Jose De San Martin Airport</lennujaam>
+		<reisiinfo>
+			<transport>Pontiac</transport>
+			<lopp_koht>Kyrgyzstan</lopp_koht>
+			<algus_koht>Kosovo</algus_koht>
+		</reisiinfo>
+		<hinnad>$7.18</hinnad>
+		<kontinent>SA</kontinent>
+		<piletikood>PSS</piletikood>
+	</reis>
+	<reis lennujaam="Hopedale Airport">
+		<lennujaam>Hopedale Airport</lennujaam>
+		<reisiinfo>
+			<transport>Toyota</transport>
+			<lopp_koht>Madagascar</lopp_koht>
+			<algus_koht>United States</algus_koht>
+		</reisiinfo>
+		<hinnad>$2.63</hinnad>
+		<kontinent>NA</kontinent>
+		<piletikood>YHO</piletikood>
+	</reis>
+	<reis lennujaam="Nanki Shirahama Airport">
+		<lennujaam>Nanki Shirahama Airport</lennujaam>
+		<reisiinfo>
+			<transport>Toyota</transport>
+			<lopp_koht>Malaysia</lopp_koht>
+			<algus_koht>China</algus_koht>
+		</reisiinfo>
+		<hinnad>$3.08</hinnad>
+		<kontinent>AS</kontinent>
+		<piletikood>SHM</piletikood>
+	</reis>
+	<reis lennujaam="Essex County Airport">
+		<lennujaam>Essex County Airport</lennujaam>
+		<reisiinfo>
+			<transport>Nissan</transport>
+			<lopp_koht>China</lopp_koht>
+			<algus_koht>China</algus_koht>
+		</reisiinfo>
+		<hinnad>$8.70</hinnad>
+		<kontinent>NA</kontinent>
+		<piletikood>CDW</piletikood>
+	</reis>
+	<reis lennujaam="Lowcountry Regional Airport">
+		<lennujaam>Lowcountry Regional Airport</lennujaam>
+		<reisiinfo>
+			<transport>Pontiac</transport>
+			<lopp_koht>Mexico</lopp_koht>
+			<algus_koht>Vietnam</algus_koht>
+		</reisiinfo>
+		<hinnad>$2.28</hinnad>
+		<kontinent>NA</kontinent>
+		<piletikood>RBW</piletikood>
+	</reis>
+	<reis lennujaam="Marion County Rankin Fite Airport">
+		<lennujaam>Marion County Rankin Fite Airport</lennujaam>
+		<reisiinfo>
+			<transport>Mercedes-Benz</transport>
+			<lopp_koht>China</lopp_koht>
+			<algus_koht>Brazil</algus_koht>
+		</reisiinfo>
+		<hinnad>$3.73</hinnad>
+		<kontinent>NA</kontinent>
+		<piletikood>HAB</piletikood>
+	</reis>
+	<reis lennujaam="San Antonio Copalar Airport">
+		<lennujaam>San Antonio Copalar Airport</lennujaam>
+		<reisiinfo>
+			<transport>Subaru</transport>
+			<lopp_koht>Indonesia</lopp_koht>
+			<algus_koht>Russia</algus_koht>
+		</reisiinfo>
+		<hinnad>$4.44</hinnad>
+		<kontinent>NA</kontinent>
+		<piletikood>CJT</piletikood>
+	</reis>
+	<reis lennujaam="Cox's Bazar Airport">
+		<lennujaam>Cox's Bazar Airport</lennujaam>
+		<reisiinfo>
+			<transport>Jaguar</transport>
+			<lopp_koht>Philippines</lopp_koht>
+			<algus_koht>France</algus_koht>
+		</reisiinfo>
+		<hinnad>$5.32</hinnad>
+		<kontinent>AS</kontinent>
+		<piletikood>CXB</piletikood>
+	</reis>
+</reisid>
